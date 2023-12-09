@@ -1,0 +1,28 @@
+.footer{
+    background-color: rgb(247, 204, 234);
+    color: rgb(146, 32, 223);
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+    .navbar .sobreooquee{
+       text-align: center;
+       margin-left: 3%;
+       font-family:'Gill Sans MT';
+       color: rgb(146, 32, 223);
+    }
+
+    .navbar .iamgemdalogo{
+        margin-left: 60%;
+    }
+
+    .navbar {
+    background-color: rgb(247, 204, 234);
+    min-height: 70px;
+    display: flex;
+    align-items: center;
+    }
+
+    

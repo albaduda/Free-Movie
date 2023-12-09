@@ -1,0 +1,161 @@
+.home{  /*/aqui estamos decorando tudo que esta dentro da div chamada h1/*/
+  min-height: 60vh;
+  margin-left: 1%;
+  }
+  .home h1{   /*/aqui estamos decorando o h1 da div chamada home/*/
+    margin-top: 4%;
+    color: black;
+    font-family:'Gill Sans MT';
+ }
+
+ .home .coluna1{
+  margin-top: 2%;
+  background-color: #ffa9de;
+  width: 30%;
+  height: 22%;
+  margin-left: 2%;
+  float: left;
+  border-radius: 7%;
+ }
+
+ .home .coluna2{
+  margin-top: 2%;
+  background-color: #ffa9de;
+  width: 30%;
+  height: 22%;
+  margin-left: 3%;
+  float: left;
+  border-radius: 10%;
+ }
+
+ .home .coluna3{
+  margin-top: 2%;
+  background-color: #ffa9de;
+  width: 30%;
+  height: 29%;
+  margin-left: 3%;
+  float: left;
+  border-radius: 10%;
+ }
+
+.home iframe{
+  margin-top: 3%;
+  margin-left: 4%;
+  float: left;
+}
+
+ .coluna1 p{
+  margin-top: 2%;
+  font-size: 15.1px;
+  color: black;
+  font-family:'Gill Sans MT';
+}
+
+.coluna2 p{
+  margin-top: 2%;
+  font-size: 15.3px;
+  color: black;
+  font-family:'Gill Sans MT';
+}
+.coluna3 p{
+  margin-top: 2%;
+  font-size: 15.4px;
+  color: black;
+  font-family:'Gill Sans MT';
+}
+
+.home button{
+  border-radius: 5%;
+  margin-top: 5%;
+  text-align: center;
+  margin-left: 43%;
+  background-color: #ffa9de;
+  font-family:'Gill Sans MT';
+}
+  .coluna1 h1{
+  color: white;
+  margin-top: 3%;
+  text-align: center;
+  font-family:'Gill Sans MT';
+}
+
+.coluna2 h1{
+  color: white;
+  margin-top: 3%;
+  text-align: center;
+  font-family:'Gill Sans MT';
+}
+
+.coluna3 h1{
+  color: white;
+  margin-top: 3%;
+  text-align: center;
+  font-family:'Gill Sans MT';
+}
+
+
+.objeto p{
+  color: gray;
+  margin: 1%;
+  font-family:'Gill Sans MT';
+  text-align: center;
+}
+
+.sobre{
+  color: #B8860B;
+  min-height: 60vh;
+}
+
+.objeto h1{
+  margin-top: 3%;
+  text-align: center;
+  color: rgb(146, 32, 223);
+}
+
+.objeto button{
+  background-color: #ffa9de;;
+  margin-left: 50%;
+  margin-top: 2%;
+  font-family:'Gill Sans MT';
+}
+
+.profile{
+  text-align: center;
+  color: black;
+}
+
+.profile h2{
+  margin-top: 3%;
+  color: rgb(146, 32, 223);
+  font-size: 35px;
+  font-family:'Gill Sans MT';
+}
+
+.profile .descricaodobjeto{  /*/aqui estamos decorando o className chamado descricaodoobjeto da div profile/*/
+  text-align: left;
+  margin: 1%;
+  margin-top: 3%;
+  font-size: 35px;
+}
+
+.profile p{
+  margin-top: 3%;
+  font-size: 25px;
+  font-family:'Gill Sans MT';
+}
+
+
+.profile button{
+  margin-top: 3%;
+  background-color: #ffa9de;
+  font-family:'Gill Sans MT';
+}
+
+
+
+
+
+
+
+
+  
